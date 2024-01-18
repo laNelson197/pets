@@ -1,0 +1,13 @@
+{
+  "name": "nelsongr/public_html/328/pets",
+  "description": "My pair program project week 3com",
+  "authors": [
+    {
+      "name": "Lillian Nelson",
+      "email": "nelson.lillian@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
